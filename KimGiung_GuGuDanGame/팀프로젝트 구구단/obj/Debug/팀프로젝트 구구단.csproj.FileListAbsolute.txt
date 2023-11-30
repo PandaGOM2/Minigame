@@ -1,0 +1,40 @@
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe.config
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.pdb
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.AssemblyReference.cache
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Form1.resources
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Properties.Resources.resources
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.GenerateResource.cache
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.CoreCompileInputs.cache
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.exe
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.pdb
+C:\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe.config
+C:\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe
+C:\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.pdb
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.AssemblyReference.cache
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Form1.resources
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Properties.Resources.resources
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.GenerateResource.cache
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.CoreCompileInputs.cache
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.exe
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.pdb
+C:\Users\leechan\Desktop\WindowPrograming\KimGiung_GuGuDanGame\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe.config
+C:\Users\leechan\Desktop\WindowPrograming\KimGiung_GuGuDanGame\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe
+C:\Users\leechan\Desktop\WindowPrograming\KimGiung_GuGuDanGame\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.pdb
+C:\Users\leechan\Desktop\WindowPrograming\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.AssemblyReference.cache
+C:\Users\leechan\Desktop\WindowPrograming\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Form1.resources
+C:\Users\leechan\Desktop\WindowPrograming\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Properties.Resources.resources
+C:\Users\leechan\Desktop\WindowPrograming\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.GenerateResource.cache
+C:\Users\leechan\Desktop\WindowPrograming\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.CoreCompileInputs.cache
+C:\Users\leechan\Desktop\WindowPrograming\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.exe
+C:\Users\leechan\Desktop\WindowPrograming\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.pdb
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\KimGiung_GuGuDanGame\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe.config
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\KimGiung_GuGuDanGame\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\KimGiung_GuGuDanGame\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.pdb
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.AssemblyReference.cache
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.GuGuDan.resources
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Properties.Resources.resources
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.GenerateResource.cache
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.CoreCompileInputs.cache
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.exe
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.pdb
