@@ -1,0 +1,40 @@
+C:\Users\leechan\source\repos\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.exe.config
+C:\Users\leechan\source\repos\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.exe
+C:\Users\leechan\source\repos\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.pdb
+C:\Users\leechan\source\repos\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.AssemblyReference.cache
+C:\Users\leechan\source\repos\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.Form1.resources
+C:\Users\leechan\source\repos\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.Properties.Resources.resources
+C:\Users\leechan\source\repos\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.GenerateResource.cache
+C:\Users\leechan\source\repos\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.CoreCompileInputs.cache
+C:\Users\leechan\source\repos\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.exe
+C:\Users\leechan\source\repos\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.pdb
+C:\Users\leechan\Desktop\WindowPrograming\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.exe.config
+C:\Users\leechan\Desktop\WindowPrograming\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.exe
+C:\Users\leechan\Desktop\WindowPrograming\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.pdb
+C:\Users\leechan\Desktop\WindowPrograming\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.AssemblyReference.cache
+C:\Users\leechan\Desktop\WindowPrograming\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.Properties.Resources.resources
+C:\Users\leechan\Desktop\WindowPrograming\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.GenerateResource.cache
+C:\Users\leechan\Desktop\WindowPrograming\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.CoreCompileInputs.cache
+C:\Users\leechan\Desktop\WindowPrograming\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.exe
+C:\Users\leechan\Desktop\WindowPrograming\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.pdb
+C:\Users\leechan\Desktop\WindowPrograming\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.Odd_Game.resources
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.exe.config
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.exe
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.pdb
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.AssemblyReference.cache
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.Odd_Game.resources
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.Properties.Resources.resources
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.GenerateResource.cache
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.CoreCompileInputs.cache
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.exe
+C:\Users\leechan\Desktop\WindowPrograming\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.pdb
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.exe.config
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.exe
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\An_Odd_Game\An_Odd_Game\bin\Debug\An_Odd_Game.pdb
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.AssemblyReference.cache
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.Odd_Game.resources
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.Properties.Resources.resources
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.GenerateResource.cache
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.csproj.CoreCompileInputs.cache
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.exe
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\An_Odd_Game\An_Odd_Game\obj\Debug\An_Odd_Game.pdb
