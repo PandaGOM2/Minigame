@@ -1,0 +1,20 @@
+C:\Users\okeod\Desktop\2023 송대영 수업자료\가바보\가바보\bin\Debug\가바보.exe.config
+C:\Users\okeod\Desktop\2023 송대영 수업자료\가바보\가바보\bin\Debug\가바보.exe
+C:\Users\okeod\Desktop\2023 송대영 수업자료\가바보\가바보\bin\Debug\가바보.pdb
+C:\Users\okeod\Desktop\2023 송대영 수업자료\가바보\가바보\obj\Debug\가바보.csproj.AssemblyReference.cache
+C:\Users\okeod\Desktop\2023 송대영 수업자료\가바보\가바보\obj\Debug\가바보.Form1.resources
+C:\Users\okeod\Desktop\2023 송대영 수업자료\가바보\가바보\obj\Debug\가바보.Properties.Resources.resources
+C:\Users\okeod\Desktop\2023 송대영 수업자료\가바보\가바보\obj\Debug\가바보.csproj.GenerateResource.cache
+C:\Users\okeod\Desktop\2023 송대영 수업자료\가바보\가바보\obj\Debug\가바보.csproj.CoreCompileInputs.cache
+C:\Users\okeod\Desktop\2023 송대영 수업자료\가바보\가바보\obj\Debug\가바보.exe
+C:\Users\okeod\Desktop\2023 송대영 수업자료\가바보\가바보\obj\Debug\가바보.pdb
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\RockPaperScissors\가바보\가바보\bin\Debug\가바보.exe.config
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\RockPaperScissors\가바보\가바보\bin\Debug\가바보.exe
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\RockPaperScissors\가바보\가바보\bin\Debug\가바보.pdb
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\RockPaperScissors\가바보\가바보\obj\Debug\가바보.csproj.AssemblyReference.cache
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\RockPaperScissors\가바보\가바보\obj\Debug\가바보.Rockpapersecssior.resources
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\RockPaperScissors\가바보\가바보\obj\Debug\가바보.Properties.Resources.resources
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\RockPaperScissors\가바보\가바보\obj\Debug\가바보.csproj.GenerateResource.cache
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\RockPaperScissors\가바보\가바보\obj\Debug\가바보.csproj.CoreCompileInputs.cache
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\RockPaperScissors\가바보\가바보\obj\Debug\가바보.exe
+C:\Users\leechan\Desktop\WindowPrograming-main (1)\WindowPrograming-main\Mini_Game\RockPaperScissors\가바보\가바보\obj\Debug\가바보.pdb
