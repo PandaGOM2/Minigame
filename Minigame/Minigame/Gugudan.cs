@@ -92,8 +92,7 @@ namespace Minigame
                 remain_time.Text = remaintime.ToString();
             }
         }
-
-        private void button1_Click(object sender, EventArgs e)
+        private void RightAnswerCheck()
         {
             if (Convert.ToInt32(textBox1.Text) == ans_Z)
             {
@@ -104,6 +103,8 @@ namespace Minigame
                 Multiplication();
                 textBox1.Text = "";
                 remaintime = 3;
+                remain_time.Text = remaintime.ToString();
+                textBox1.Focus();
                 timer1 = new System.Windows.Forms.Timer();
                 timer1.Tick += new EventHandler(count_down);
                 timer1.Interval = 1000;
@@ -118,60 +119,32 @@ namespace Minigame
                     question_label.Text = "□ X □ = ?";
                     HappyPicture();
                     remaintime = 3;
+                    remain_time.Text = remaintime.ToString();
                 }
-                else // 메인 폼으로 이동
+                else // 아니오를 누르면 게임 선택 폼으로 이동
                 {
-                    question_label.Text = "□ X □ = ?";
-                    HappyPicture();
-                    remaintime = 3;
+                    this.Close();
+                    GameSelect gameselect = new GameSelect();
+                    gameselect.Show();
                 }
                 score = 0;
                 score_label.Text = score.ToString();
                 textBox1.Text = "";
             }
+        }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+            RightAnswerCheck();
         }
 
         private void textBox1_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter)
             {
-                if (Convert.ToInt32(textBox1.Text) == ans_Z)
-                {
-                    timer1.Stop();
-                    MessageBox.Show("정답입니다!", "정답");
-                    score += 100;
-                    score_label.Text = score.ToString();
-                    Multiplication();
-                    textBox1.Text = "";
-                    remaintime = 3;
-                    timer1 = new System.Windows.Forms.Timer();
-                    timer1.Tick += new EventHandler(count_down);
-                    timer1.Interval = 1000;
-                    timer1.Start();
-                }
-                else
-                {
-                    UnhappyPicture();
-                    timer1.Stop();
-                    if (MessageBox.Show("오답입니다! 다시 시도할까요? (예: 다시시도, 아니오: 메인으로) \r\r점수: " + score, "오답", MessageBoxButtons.YesNo, MessageBoxIcon.Stop) == DialogResult.Yes)
-                    {
-                        question_label.Text = "□ X □ = ?";
-                        HappyPicture();
-                        remaintime = 3;
-                    }
-                    else // 메인 폼으로 이동
-                    {
-                        question_label.Text = "□ X □ = ?";
-                        HappyPicture();
-                        remaintime = 3;
-                    }
-                    score = 0;
-                    score_label.Text = score.ToString();
-                    textBox1.Text = "";
-                }
+                RightAnswerCheck();
             }
-
         }
 
         private void button3_Click(object sender, EventArgs e)
