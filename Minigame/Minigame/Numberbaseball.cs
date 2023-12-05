@@ -27,23 +27,23 @@ namespace Minigame
         private void GameStart()
         {
             Random r = new Random();
-            Array = new int[3] { 100, 100, 100 };
+            Array = new int[3];
 
-            for (int i = 0; i < Array.Length; ++i)
+            for (int i = 0; i < 3; i++)
             {
-                int rNum = r.Next(0, 10);
-                int j;
-                for (j = 0; j < Array.Length; ++j)
+                Array[i] = r.Next(0, 10);
+            }
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
                 {
-                    if (rNum == Array[j])
-                        break;
+                    if (i != j && Array[i] == Array[j])
+                    {
+                        Array[j] = r.Next(0, 10);
+                        j = 0;
+                    }
                 }
-                if (j < Array.Length)
-                {
-                    --j;
-                    continue;
-                }
-                Array[i] = rNum;
             }
         }
 
@@ -67,7 +67,7 @@ namespace Minigame
                     if (arr[i] == Array[j])
                     {
                         if (i == j)
-                            ++strike;
+                            strike++;
 
                         else
                             ++ball;
