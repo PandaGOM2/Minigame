@@ -23,6 +23,7 @@ namespace Minigame
 
         private void Game_Start_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("게임을 시작하겠습니다!");
             MessageBox.Show("홀,짝중에 선택을 먼저 해주세요");
             continueGame = true;
         }
