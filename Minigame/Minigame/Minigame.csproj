@@ -167,5 +167,14 @@
   <ItemGroup>
     <None Include="Resources\happy.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\가위.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\주먹.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\보.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -118,29 +118,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="unhappy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unhappy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="99" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\99.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="odd or even game" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\odd or even game.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="kiatigers" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\kiatigers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Trump1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Trump1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Trump3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Trump3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rock Paper Scissors" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rock Paper Scissors.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gamestart" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gamestart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="가위" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\가위.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Trump2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Trump2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -150,5 +129,35 @@
   </data>
   <data name="happy" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\happy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gamestart" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gamestart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="unhappy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unhappy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Trump3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Trump3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Trump1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Trump1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rock Paper Scissors" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rock Paper Scissors.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="99" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\99.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kiatigers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kiatigers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="odd or even game" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\odd or even game.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="주먹" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\주먹.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="보" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\보.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
